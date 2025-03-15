@@ -1,1 +1,1 @@
-Hello John! Your age is 30 and your email is john@example.com.
+Hello {name}! Your age is 30 and your email is {email}.
